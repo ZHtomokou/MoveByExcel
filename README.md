@@ -12,9 +12,9 @@ Before running this script, install ImportExcel from PowerShell Gallery
 <!-- USAGE -->
 ## Usage
 
-(1)Execute MoveByExcel.ps1
+(1)Execute `MoveByExcel.ps1`
 
-(2)Choose Excelsheet.xlsx
+(2)Choose `Excelsheet.xlsx`
 
 You will find the files and folders in the Source folder are moved to the Dest folder
 
